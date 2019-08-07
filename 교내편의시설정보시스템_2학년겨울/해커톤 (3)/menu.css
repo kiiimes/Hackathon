@@ -1,0 +1,22 @@
+.btnArray{
+  margin: auto;
+  width: 120%;
+  padding-left: 5%;
+}
+.btnArray > a{
+  margin: auto;
+}
+.btnArray > a > img{
+  width: 30%;
+  margin: auto;
+  margin-right: 5%;
+  margin-bottom: 2%;
+  border: 2px solid silver;
+  border-style: outset;
+  border-radius: 5% 5% 5% 5%;
+  padding: 2%;
+}
+
+.main{
+  padding: 15% 0 15% 0;
+}

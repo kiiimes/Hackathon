@@ -1,0 +1,48 @@
+*{
+  font-style:"돋움";
+}
+.climb-content{
+  margin: auto;
+}
+.climb-content>h2{
+  font-weight:bold;
+  text-align: center;
+}
+.content-title{
+  margin-top:5%;
+  margin-bottom:3%;
+  border-top: 5px solid navy;
+  width:15%;
+}
+.climb-content>img{
+  width:100%;
+  height:30%;
+  border-radius:10px;
+
+}
+.climb-content>button{
+  margin: 5% 0 5% 0;
+  border:0;
+  outline:0;
+}
+#content-title1{
+  margin-top:5%;
+  margin-bottom:3%;
+  border-top: 5px solid navy;
+  width:40%;
+}
+.climb-content>button{
+  width:20%;
+  height:10%;
+  border-radius:5px;
+}
+.climb-content>button{
+  margin-left:30%;
+  width:40%;
+  font-weight:bold;
+}
+.density-content>p{
+  margin-left:30%;
+}
+.container{
+}
